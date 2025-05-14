@@ -1,0 +1,25 @@
+Mode: easy 
+Alien Life: 50 
+Alien Attack: 0 
+Zombies No: 0 
+Zombies Life: 0 
+Zombies Attack: 15 
+Zombies Range: 1 
+Boss life: 500 
+Boss attack: 50 
+Boss CD: 3 
+Boss spawn: 1 
+Row: 5
+Column: 9
+Alien position x: 4
+Alien position y: 4
+Zombie Position: 
+45
+
+2D Array: 
+pph@hh ^<
+p<<^ p <h
+      h ^
+pv vrB>>h
+ >@hA^p^ 
+
